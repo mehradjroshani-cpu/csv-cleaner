@@ -1,0 +1,16 @@
+Name,Email,Phone,Product,Qty,Unit Price,Region
+  john SMITH , John.Smith@Gmail.com ,555-123-4567,laptop stand,2.0,$45.00,west
+MARIA garcia,maria.garcia@yahoo.com,(555) 234 5678,USB-C Hub,1.0,$32.50,East 
+li   wei,LI.WEI@outlook.com,555.345.6789,Wireless Mouse,3.0,$19.99,north
+Aisha  Khan,aisha.khan@gmail.com ,5554567890,Desk Lamp,1.0,$28.00,SOUTH
+john smith,john.smith@gmail.com,555-123-4567,Laptop Stand,1.0,$45.00,West
+  Carlos RAMIREZ,c.ramirez@company.com,555 567 8901,Mechanical Keyboard,1.0,$89.99,east
+emily  CHEN,Emily.Chen@Gmail.com,(555)678-9012,Monitor Arm,2.0,$54.50,West
+DAVID  o'brien, david.obrien@mail.com,555-789-0123,Webcam,1.0,$39.00,North 
+priya PATEL,priya.patel@yahoo.com,555-890-123,Webcam,2.0,$39.00,south
+tom  NGUYEN,TOM.NGUYEN@outlook.com,555.901.2345,USB-C Hub,4.0,$32.50,East
+sara  LOPEZ,sara.lopez@gmail.com,5550123456,Desk Lamp,2.0,$28.00,west
+  kevin  BROWN,kevin.brown@mail.com,(555) 111-2222,Wireless Mouse,1.0,$19.99,NORTH
+Maria Garcia ,MARIA.GARCIA@yahoo.com,555-234-5678,Mechanical Keyboard,1.0,$89.99,East
+nina  SHAH,nina.shah@company.com,555-222-3333,Monitor Arm,1.0,$54.50,South
+omar  HASSAN,omar.hassan@gmail.com,555 333 4444,Laptop Stand,3.0,"$1,045.00",west
